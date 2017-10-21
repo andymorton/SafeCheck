@@ -19,10 +19,10 @@ class App extends React.Component {
   render() {
     const { name } = this.state.data;
     return (
-      <p>
-        Hollaaaa
+      <h1>
+        Hollaaa
         <span>{name}</span>
-      </p>
+      </h1>
     );
   }
 }
