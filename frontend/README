@@ -1,0 +1,3 @@
+FE for SafeCheck
+
+The front-end is using react, webpack and babel to compile the UI.
