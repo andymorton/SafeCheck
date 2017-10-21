@@ -1,3 +1,11 @@
 FE for SafeCheck
 
 The front-end is using react, webpack and babel to compile the UI.
+
+To build add a file called `data.js` to the view directory. Including:
+```
+module.exports = {
+  testUrl: 'enpoint.url',
+  postUrl: 'post-endpoint.url'
+};
+```
