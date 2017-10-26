@@ -1,14 +1,14 @@
-#FE for SafeCheck
+# FE for SafeCheck
 
 The front-end is using react, webpack and babel to compile the UI.
 
-##Prerequisites
+## Prerequisites
 - [Node](https://nodejs.org/en/)
 
-##Build
+## Build
 - Run `nom run build` to compile assets
 
-##Server
+## Server
 -Run `npm start` to serve the app
 
 To build add a file called `data.js` to the view directory. Including:
